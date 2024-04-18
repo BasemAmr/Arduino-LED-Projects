@@ -12,31 +12,31 @@ This repository contains projects completed as part of the RES Beginners Track t
 
 ## Shifting LEDs
 
-Description of the Shifting LEDs project goes here.
+The Shifting LEDs project involves controlling a string of 8 LEDs to simulate a shifting effect, where the LEDs move from one end to the other in a continuous loop.
 
 [Google Drive](https://drive.google.com/drive/folders/1gitDfr0EphA4PBCdn_JHdxQZoPWfB31-?usp=drive_link)
 
 ## Flashing LEDs
 
-Description of the Flashing LEDs project goes here.
+In the Flashing LEDs project, the 8 LEDs flash on and off in a pattern, creating a visually striking effect.
 
 [Google Drive](https://drive.google.com/drive/folders/1vkyU2K5OVTgniPbkAJb7ntj1SEBeASqF?usp=drive_link)
 
 ## Ping Pong Game
 
-Description of the Ping Pong Game project goes here.
+The Ping Pong Game project utilizes the 8 LEDs to represent the movement of a virtual ping pong ball between two players, simulating the classic game on a physical board.
 
 [Google Drive](https://drive.google.com/drive/folders/1bK5Q0MCuSnPv2nrXZHUn_Tqhx76jWHxX?usp=drive_link)
 
 ## Converging LEDs
 
-Description of the Converging LEDs project goes here.
+With the Converging LEDs project, the 8 LEDs gradually converge towards the center point, creating an effect where the lights appear to meet at a single focal point.
 
 [Google Drive]([link-to-google-drive-folder](https://drive.google.com/drive/folders/1HFWnR-Fk-PsszBq_cSYCqLQvX8eJKQsi?usp=drive_link))
 
 ## Diverging LEDs
 
-Description of the Diverging LEDs project goes here.
+In the Diverging LEDs project, the 8 LEDs spread outwards from a central point, creating an expanding pattern reminiscent of ripples in water or the dispersion of light.
 
 [Google Drive](https://drive.google.com/drive/folders/18VwiQQltLBNpSwSIT9TeQS_9eCFNkWK2?usp=drive_link)
 

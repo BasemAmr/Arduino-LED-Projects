@@ -42,5 +42,5 @@ Description of the Diverging LEDs project goes here.
 
 ---
 
-![RES Team Banner]([banner-image-link](https://lh5.googleusercontent.com/xaPQksS4IAj3wYv1jr4THVyFid5oeMtjK_q8ZrucMv3vo7EcTdyGxSzomV_FrZk7GcJSvjcAq2NXZzl9ankCdNZZQh6lmxTsbKse81mZ9boQMtpqdzA9-8SvjctpmtPpiw=w1080))
+![RES Team Banner](https://lh5.googleusercontent.com/xaPQksS4IAj3wYv1jr4THVyFid5oeMtjK_q8ZrucMv3vo7EcTdyGxSzomV_FrZk7GcJSvjcAq2NXZzl9ankCdNZZQh6lmxTsbKse81mZ9boQMtpqdzA9-8SvjctpmtPpiw=w1080)
 
